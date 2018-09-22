@@ -4,4 +4,4 @@
   gather_facts: no
   tasks:
    - name: start blueking base service
-     shell: "/data/install/bkces start all"
+     shell: "/data/install/bkcec start all"
